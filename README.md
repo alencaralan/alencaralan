@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! Sou o Alan Alencar 👋
 
-<!--
-**alencaralan/alencaralan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech Entrepreneur & Full Stack Developer | Estudante de Sistemas de Informação @ICEI-PUC-Minas-PMV-SI**
 
-Here are some ideas to get you started:
+Sou um empresário de tecnologia baseado no Rio de Janeiro, unindo visão estratégica de negócios com engenharia de software. Atualmente, estou desenvolvendo minhas habilidades como Full Stack Developer para criar ecossistemas digitais robustos e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que estou construindo e aprendendo:
+- 🎓 Graduando em Sistemas de Informação pela PUC Minas Virtual.
+- 💻 Focado em dominar os fundamentos de desenvolvimento Web (Front-end e Back-end).
+- 💡 Buscando sempre transformar problemas de negócios em soluções com código limpo.
+
+### 🌐 Vamos nos conectar:
+- [LinkedIn](https://www.linkedin.com/in/alencaralan)
+- **E-mail:** alan.alencar.office@gmail.com
